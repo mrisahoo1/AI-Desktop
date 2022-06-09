@@ -1,0 +1,1 @@
+print("Let's begin our AI model")
